@@ -1,14 +1,8 @@
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Supratim+Das;Software+Engineer+%7C+Full+Stack;Building+Web+%26+Mobile+Apps;Founder+%40Dreamlytix" alt="Typing SVG" />
-</h1> -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=+%F0%9F%91%8B+Hey%2C+I'm+Supratim+Das;" alt="Typing SVG" />
 </h1>
 
 <p align="center"> 
-  <!-- <a href="https://www.linkedin.com/in/supimione/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
-  <!-- <a href="mailto:supimione@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> -->
   <a href="https://supimione.github.io"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/></a>
   <a href="https://dreamlytix.com/"><img src="https://img.shields.io/badge/Dreamlytix-181717?style=for-the-badge&logo=portfolio&logoColor=white" alt="Dreamlytix"/></a>
 </p>
@@ -32,11 +26,8 @@ AI-powered development, automation, & integrating tools like Claude Code and Cod
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-09B6A2?style=for-the-badge&logo=Codex&logoColor=white)
 
