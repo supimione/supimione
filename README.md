@@ -13,9 +13,7 @@
   <a href="https://dreamlytix.com/"><img src="https://img.shields.io/badge/Dreamlytix-181717?style=for-the-badge&logo=portfolio&logoColor=white" alt="Dreamlytix"/></a>
 </p>
  
-A Full-Stack Software Engineer with 7+ years of experience building scalable, high-performance web and mobile applications. I specialise in working across the entire stack — from crafting intuitive, pixel-perfect user interfaces to designing robust, distributed backend systems.
-
-I’m passionate about solving complex, large-scale engineering challenges and building products that deliver real-world impact.
+A Full-Stack Software Engineer with 7+ years of experience building scalable, high-performance web and mobile applications. I specialise in working across the entire stack — from crafting intuitive, pixel-perfect user interfaces to designing robust, distributed backend systems. I’m passionate about solving complex, large-scale engineering challenges and building products that deliver real-world impact.
 
 🏫 **Founder of Dreamlytix:**  
 Focused on transforming traditional schools into digitally empowered ecosystems through modern technology.
