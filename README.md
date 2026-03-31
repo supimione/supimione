@@ -13,7 +13,7 @@
   <a href="https://dreamlytix.com/"><img src="https://img.shields.io/badge/Dreamlytix-181717?style=for-the-badge&logo=portfolio&logoColor=white" alt="Dreamlytix"/></a>
 </p>
  
-A Full-Stack Software Engineer with 7+ years of experience building scalable, high-performance web and mobile applications. I specialize in working across the entire stack — from crafting intuitive, pixel-perfect user interfaces to designing robust, distributed backend systems.
+A Full-Stack Software Engineer with 7+ years of experience building scalable, high-performance web and mobile applications. I specialise in working across the entire stack — from crafting intuitive, pixel-perfect user interfaces to designing robust, distributed backend systems.
 
 I’m passionate about solving complex, large-scale engineering challenges and building products that deliver real-world impact.
 
@@ -57,9 +57,6 @@ AI-powered development, automation, & integrating tools like Claude Code and Cod
 I'm always open to consulting, collaborations, and meaningful conversations around products, tech, and AI.
 
 <p align="center">
-  <a href="mailto:supimione@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://www.linkedin.com/in/supimione/">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
