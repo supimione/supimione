@@ -17,7 +17,8 @@ A Full-Stack Software Engineer with 7+ years of experience building scalable, hi
 
 I’m passionate about solving complex, large-scale engineering challenges and building products that deliver real-world impact.
 
-🏫 Founder of Dreamlytix — digitizing traditional schools through modern technology.
+🏫 **Founder of Dreamlytix:**  
+Focused on transforming traditional schools into digitally empowered ecosystems through modern technology.
 
 🔭 **Currently Building:**  
 Dreamlytix — transforming schools and gyms into digitally empowered ecosystems through modern, scalable software solutions and SaaS products.
@@ -53,7 +54,8 @@ AI-powered development, automation, & integrating tools like Claude Code and Cod
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-09B6A2?style=for-the-badge&logo=Codex&logoColor=white)
 
-🤝 Let's Connect
+#### 🤝 Let's Connect
+
 I'm always open to consulting, collaborations, and meaningful conversations around products, tech, and AI.
 
 <p align="center">
