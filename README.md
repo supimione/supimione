@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center"> 
-  <a href="https://supimione.github.io">
+  <a href="https://supimione.com/">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://dreamlytix.com/">
@@ -13,11 +13,8 @@
  
 A Full-Stack Software Engineer with 7+ years of experience building scalable, high-performance web and mobile applications. I specialise in working across the entire stack — from crafting intuitive, pixel-perfect user interfaces to designing robust, distributed backend systems. I’m passionate about solving complex, large-scale engineering challenges and building products that deliver real-world impact.
 
-🏫 **Founder of Dreamlytix:**  
-Focused on transforming traditional schools into digitally empowered ecosystems through modern technology.
-
 🔭 **Currently Building:**  
-Dreamlytix — transforming schools and gyms into digitally empowered ecosystems through modern, scalable software solutions and SaaS products.
+Dreamlytix — transforming businesses into digitally empowered ecosystems through modern, scalable software solutions and SaaS products.
 
 🤖 **Exploring:**  
 AI-powered development, automation, & integrating tools like Claude Code and Codex into daily workflows. Also building cross-platform apps using React Native.
@@ -47,6 +44,9 @@ I'm always open to consulting, collaborations, and meaningful conversations arou
   <a href="https://www.instagram.com/supimione/">
     <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://wa.me/919933606242">
+  <img src="https://img.shields.io/badge/WhatsApp-9933606242-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
