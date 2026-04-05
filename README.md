@@ -47,9 +47,6 @@ I'm always open to consulting, collaborations, and meaningful conversations arou
   <a href="https://wa.me/919933606242">
     <img src="https://img.shields.io/badge/9933606242-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://x.com/supimione">
-    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=flat-square&logo=twitter&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
